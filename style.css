@@ -1,0 +1,66 @@
+* {
+    margin: 0px;
+
+}
+
+a:link {
+    text-decoration: none;
+}
+
+p {
+    width: 550px;
+}
+
+.header {
+    background-color: rgb(221, 254, 255);
+    padding-left: 10px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.profile {
+    padding-bottom: 10px;
+
+}
+
+.profile2 {
+    border: solid;
+    width: 400px;
+}
+
+.main {
+    background-color: aquamarine;
+    padding-left: 10px;
+
+}
+
+.text {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.skill {
+    border: solid;
+    width: 250px;
+    margin-bottom: 15px;
+}
+
+.work {
+    padding-top: 15px;
+    border: solid;
+    width: 420px;
+}
+
+.portfolio{
+    border: solid;
+    margin-top: 15px;
+    width: 300px;
+}
+.footer {
+    background-color: rgb(218, 214, 214);
+    padding-top: 15px;
+}
