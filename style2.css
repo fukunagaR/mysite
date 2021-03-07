@@ -1,0 +1,71 @@
+  * {
+            margin: 0px;
+        }
+
+        .header {
+            background-color: rgb(255, 213, 134);
+            text-align: center;
+        }
+
+        .main {
+            text-align: center;
+            background-color: rgb(115, 255, 255);
+            margin: 0px;
+            padding: 10px 0px;
+        }
+
+        h3 {
+            padding-top: 8px;
+        }
+
+        li {
+            list-style-position: inside;
+            cursor: pointer;
+            list-style: none;
+        }
+
+        .course{
+            border: solid;
+            width: 400px;
+            margin: 0 auto;
+        }
+
+        .text {
+            margin: 22px 0px 10px 0px;
+
+
+        }
+
+        .designer {
+            border: solid;
+            width: 630px;
+            margin: 0 auto;
+
+        }
+
+        .front {
+            margin: 15px auto;
+            border: solid;
+            width: 630px;
+
+        }
+
+        .develop {
+            margin: 0 auto;
+            border: solid;
+            width: 656px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .footer {
+            padding-left: 7px;
+            background-color: rgb(250, 209, 134);
+
+        }
